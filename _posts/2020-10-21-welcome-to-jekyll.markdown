@@ -1,29 +1,26 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-10-21 18:42:44 +0100
-categories: jekyll update
+title:  "Welcome to my blog!"
+date:   2020-10-14 18:42:44 +0100
+categories: welcome
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# About me 
 
-Jekyll requires blog post files to be named according to the following format:
+Hello everyone!
 
-`YEAR-MONTH-DAY-title.MARKUP`
+I'm Silvia, from Venice, Italy but currently living in London! I did my undergrad in Cultural Tourism Planning and Management at the University of Padua, and then worked as an intern in the marketing department of a digital tour operator. 
+        
+I love traveling and visiting museums, my favorites are the Doge's Palace in Venice and the Uffizi Gallery in Florence. 
+        
+Looking forward to meeting you all! 
+  
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+![alt text](picsilvia.jpg)
 
-Jekyll also offers powerful support for code snippets:
+My top 5 museums and art galleries are:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+1. Uffizi Galleries, Florence
+2. Doge's Palace, Venice
+3. MET, New York
+4. National Gallery, London
+5. Pergamonmuseum, Berlin
