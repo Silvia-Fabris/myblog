@@ -1,29 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-10-22 11:15:44 +0100
-categories: jekyll update
+title:  "Exploring the British Museum's website"
+date:   2020-10-22 11:30:44 +0100
+categories: museum 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+The British Museum website is extremely broad and covers a variety of different topics, from providing information about visiting the collection, to blog articles and the museum's podcast.
 
-Jekyll requires blog post files to be named according to the following format:
+The museum itself was first founded in 1753, when the Act of Parliament purchased a great number of pieces belonging to Sir Hans Sloane's collection. Now it is one of the most important museums of the world, as proven by its extensive online database of objects present in the collection. The online collection was created in 2007 to adapt to the growing request of becoming digital and allow visitors and researches to explore and acquire useful information on the Museum.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+The objects that now are part of the British Museum's collection were either purchased, excavated, donated, commissioned or were acquired due to a conflict or colonial activity. The pieces come from all over the world. The online collection is divided in themes reflecting the place of origin: Americas, China, Africa, Egypt, but objects are also categorized according to what they represent, such as Animals, Death and Memory, Desire, love and Identity.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+The metadata shown for most of the artifacts displayed on the online collection are: object type, museum number, description, cultures/periods, findspot, materials, technique, dimensions, location (within the museum), exhibition history, condition, subjects, associated names, acquisition name and date, department, and conservation. 
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+An interesting feature of the museum's website is the possibility to explore the virtual Galleries of the Oceania and the Prints and Drawings collections and enjoy a virtual tour through Google Street view. You can explore more than 60 galleries, making this the world's largest indoor space on Google Street view. My personal favorite were the Egyptian Sculpture's rooms, where you could admire up close the Rosetta Stone, and the rooms dedicated to the Parthenon's marbles and sculptures, which have a peculiar history of how they were acquired by the museum that is addressed on The Parthenon's Sculpture webpage.
