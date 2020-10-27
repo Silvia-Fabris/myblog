@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "McCord Museum"
+date:   2020-10-21 18:42:44 +0100
+categories: museum
+---
+The [McCord Museum](https://www.musee-mccord.qc.ca/en/#skipContent) is a public research and teaching museum dedicated to the preservation and study of Canadian history. It was founded in 1921 by David Ross McCord and the original core of the collection was assembled by his family since their arrival in Canada. 
+
+The [collection](http://collections.musee-mccord.qc.ca/en/keys/collections) is made of about 1,500,000 objects, images and manuscripts. There is also an online collection created in collaboration with seven other museums that is formed by 147,500 artworks.
+
+The collection database is divided into the following categories:
+- [Documentary Art](https://www.musee-mccord.qc.ca/en/collections/documentary-art/) comprising images that portray the history of Canada and Canadian society; 
+[!(https://www.musee-mccord.qc.ca/app/uploads/2015/07/peinture_estampes_dessins_header_small.jpg)
+
+- [Dress, Fashion and Textiles](https://www.musee-mccord.qc.ca/en/collections/dress-fashion-and-textiles/) where you can find Canadian clothing and accessories from the past three centuries; 
+[!(https://www.musee-mccord.qc.ca/app/uploads/2015/07/costumes_textiles_header_en.jpg)
+
+- [Indigenous Cultures](https://www.musee-mccord.qc.ca/en/collections/indigenous-cultures/) with archeological and historic objects;  
+[!(https://www.musee-mccord.qc.ca/app/uploads/2015/07/ethnologie_archeologie_header_en.jpg)
+
+- [Material Cultures](https://www.musee-mccord.qc.ca/en/collections/material-culture/) whitin Canada; 
+[!(https://www.musee-mccord.qc.ca/app/uploads/2015/07/arts_decoratifs_header_en.jpg)
+
+- [Photography](https://www.musee-mccord.qc.ca/en/collections/photography/)to document the history of Montreal; 
+[!(https://www.musee-mccord.qc.ca/app/uploads/2015/07/photographies_header_en.jpg)
+
+- [Archives](https://www.musee-mccord.qc.ca/en/collections/archives/)
+[!(https://www.musee-mccord.qc.ca/app/uploads/2015/07/archives_textuelles_header_en.jpg)
+
+
+You can also explore the collection by searching:
+- Artists
+- Objects
+- Time Periods
+- Geocultural Areas
+- Geocultural Map
+- Thematic Resources
+- Fonds
+
+I personally find easy to browse the online database, it is schematic, the cathegories are well defined and differentiated. The layout of this section, however, is different from the rest of the museum's website and I believe the contrast to be too excessive.   
+
+The **images** of the collection are high definition and taken from different angles to showcast the details of the artifacts. In the future, it would be interesting to have the option to see the object in a 3D version. A peculiar feature of the database is the possibility of adding artworks to the cart and buying a reproduction of the image.       
+
+My favorite part of the website was the section dedicated to the [Chapleau, Profession: Cartoonist] (https://www.musee-mccord.qc.ca/en/exhibitions/chapleau-profession-cartoonist/) in particular this [video](https://youtu.be/mIwa9zN82Lc) dedicated to the behind the scenes of his work. 
+           
+
+##Location##
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11185.148578801238!2d-73.5734071!3d45.504298!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd1683b4ce04d0773!2sMcCord%20Museum!5e0!3m2!1sit!2suk!4v1603278440850!5m2!1sit!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            
+
+##Contact the museum##
+- <a href="tel:514-861-6701">Telephone: 514-861-6701</a>
+- <a href="malitoinfo.mccord@mccord-stewart.ca">Email: info.mccord@mccord-stewart.ca</a>
+
+
