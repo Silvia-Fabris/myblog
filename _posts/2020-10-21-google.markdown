@@ -38,5 +38,5 @@ One of my favorite parts of the website was the [Macchu Picchu virtual tour](htt
 
 I also enjoyed watching all the details of one of my favorite paintings *The Starry Night by Van Gogh* of which Google Arts & Culture created a focus titled [Zoom Van Gogh’s ‘The Starry Night’](https://artsandculture.google.com/story/egVRmbCQ5tyrVA) 
 
-[![Zoom Van Gogh’s ‘The Starry Night](myblog/media/starrynight.jpg "Zoom Van Gogh’s ‘The Starry Night")](https://artsandculture.google.com/story/egVRmbCQ5tyrVA)
+[![Zoom Van Gogh’s ‘The Starry Night](/../../myblog/media/starrynight.jpg "Zoom Van Gogh’s ‘The Starry Night")](https://artsandculture.google.com/story/egVRmbCQ5tyrVA)
 

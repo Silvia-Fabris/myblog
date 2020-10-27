@@ -15,7 +15,7 @@ I love traveling and visiting museums, my favorites are the Doge's Palace in Ven
 Looking forward to meeting you all! 
   
 
-![My picture](myblog/media/picsilvia.jpg "My picture")
+![My picture](/media/picsilvia.jpg "My picture")
 
 My top 5 museums and art galleries are:
 
