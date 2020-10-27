@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "McCord Museum"
-date:   2020-10-21 18:42:44 +0100
+date:   2020-10-24 18:42:44 +0100
 categories: museum
 ---
 The [McCord Museum](https://www.musee-mccord.qc.ca/en/#skipContent) is a public research and teaching museum dedicated to the preservation and study of Canadian history. It was founded in 1921 by David Ross McCord and the original core of the collection was assembled by his family since their arrival in Canada. 
@@ -10,22 +10,22 @@ The [collection](http://collections.musee-mccord.qc.ca/en/keys/collections) is m
 
 The collection database is divided into the following categories:
 - [Documentary Art](https://www.musee-mccord.qc.ca/en/collections/documentary-art/) comprising images that portray the history of Canada and Canadian society; 
-[![Documentary Art](https://www.musee-mccord.qc.ca/app/uploads/2015/07/peinture_estampes_dessins_header_small.jpg =400x300)
+![Documentary Art](https://www.musee-mccord.qc.ca/app/uploads/2015/07/peinture_estampes_dessins_header_small.jpg)
 
 - [Dress, Fashion and Textiles](https://www.musee-mccord.qc.ca/en/collections/dress-fashion-and-textiles/) where you can find Canadian clothing and accessories from the past three centuries; 
-[![Dress, Fashion and Textiles](https://www.musee-mccord.qc.ca/app/uploads/2015/07/costumes_textiles_header_en.jpg)
+![Dress, Fashion and Textiles](https://www.musee-mccord.qc.ca/app/uploads/2015/07/costumes_textiles_header_en.jpg)
 
 - [Indigenous Cultures](https://www.musee-mccord.qc.ca/en/collections/indigenous-cultures/) with archeological and historic objects;  
-[![Indigenous Cultures](https://www.musee-mccord.qc.ca/app/uploads/2015/07/ethnologie_archeologie_header_en.jpg)
+![Indigenous Cultures](https://www.musee-mccord.qc.ca/app/uploads/2015/07/ethnologie_archeologie_header_en.jpg)
 
 - [Material Cultures](https://www.musee-mccord.qc.ca/en/collections/material-culture/) whitin Canada; 
-[![Material Cultures](https://www.musee-mccord.qc.ca/app/uploads/2015/07/arts_decoratifs_header_en.jpg)
+![Material Cultures](https://www.musee-mccord.qc.ca/app/uploads/2015/07/arts_decoratifs_header_en.jpg)
 
 - [Photography](https://www.musee-mccord.qc.ca/en/collections/photography/)to document the history of Montreal; 
-[![Photography](https://www.musee-mccord.qc.ca/app/uploads/2015/07/photographies_header_en.jpg)
+![Photography](https://www.musee-mccord.qc.ca/app/uploads/2015/07/photographies_header_en.jpg)
 
 - [Archives](https://www.musee-mccord.qc.ca/en/collections/archives/)
-[![Archives](https://www.musee-mccord.qc.ca/app/uploads/2015/07/archives_textuelles_header_en.jpg)
+![Archives](https://www.musee-mccord.qc.ca/app/uploads/2015/07/archives_textuelles_header_en.jpg)
 
 
 You can also explore the collection by searching:

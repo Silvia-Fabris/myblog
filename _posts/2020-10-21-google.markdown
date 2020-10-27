@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Google Arts & Culture"
-date:   2020-10-21 18:42:44 +0100
+date:   2020-10-23 18:42:44 +0100
 categories: museum
 ---
 [Google Arts & Culture](https://artsandculture.google.com) is a project that was initially launched by Google in 2011 as *Google Art Project*. It is an online archive that contains high definition images of artworks belonging to museum’s from all over the world. It also provides a virtual tour of the galleries where the works of art are exposed. 
@@ -38,5 +38,5 @@ One of my favorite parts of the website was the [Macchu Picchu virtual tour](htt
 
 I also enjoyed watching all the details of one of my favorite paintings *The Starry Night by Van Gogh* of which Google Arts & Culture created a focus titled [Zoom Van Gogh’s ‘The Starry Night’](https://artsandculture.google.com/story/egVRmbCQ5tyrVA) 
 
-[![Zoom Van Gogh’s ‘The Starry Night](/Users/silviafabris/KCL/cultural web/jeckyll/myblog/media/starrynight.jpg "Zoom Van Gogh’s ‘The Starry Night")](https://artsandculture.google.com/story/egVRmbCQ5tyrVA)
+[![Zoom Van Gogh’s ‘The Starry Night](myblog/media/starrynight.jpg "Zoom Van Gogh’s ‘The Starry Night")](https://artsandculture.google.com/story/egVRmbCQ5tyrVA)
 
