@@ -2,33 +2,31 @@
 layout: page
 title: Artists
 ---
-<table>
-    {% tablerow art in site.data.artists %} 
-      {{ art.artistID }}
-    {% endtablerow %}
 
-    {% tablerow art in site.data.artists %} 
-      {{ art.EnglishName }}
-    {% endtablerow %}
+{% for art in site.data.artists %} 
+  <p>{{ art.artistID }}</p>
+{% endfor %}
 
-    {% tablerow art in site.data.artists %} 
-      {{ art.ChineseName }}
-    {% endtablerow %}
+{% for art in site.data.artists %} 
+  <p>{{ art.EnglishName }}</p>
+{% endfor %}
 
-    {% tablerow art in site.data.artists %} 
-       {{ art.Nationality }}
-    {% endtablerow %}
+{% for art in site.data.artists %} 
+  <p>{{ art.ChineseName }}</p>
+{% endfor %}
 
-    {% tablerow art in site.data.artists %} 
-      {{ art.Gender }}
-    {% endtablerow %}
+{% for art in site.data.artists %} 
+  <p>{{ art.Nationality }}</p>
+{% endfor %}
 
-    {% tablerow art in site.data.artists %} 
-      {{ art.Birth Year }}
-    {% endtablerow %}
+{% for art in site.data.artists %} 
+  <p>{{ art.Gender }}</p>
+{% endfor %}
 
-    {% tablerow art in site.data.artists %} 
-      {{ art.Death Year }}
-    {% endtablerow %}
-    
-    </table>
+{% for art in site.data.artists %} 
+  <p>{{ art.BirthYear }}</p>
+{% endfor %}
+
+{% for art in site.data.artists %} 
+  <p>{{ art.DeathYear}}</p>
+{% endfor %}
