@@ -1,0 +1,33 @@
+---
+layout: page
+title: Artists
+---
+<table>
+    {% tablerow art in site.data.artists %} 
+      {{ art.artistID }}
+    {% endtablerow %}
+
+    {% tablerow art in site.data.artists %} 
+      {{ art.EnglishName }}
+    {% endtablerow %}
+
+    {% tablerow art in site.data.artists %} 
+      {{ art.ChineseName }}
+    {% endtablerow %}
+
+    {% tablerow art in site.data.artists %} 
+       {{ art.Nationality }}
+    {% endtablerow %}
+
+    {% tablerow art in site.data.artists %} 
+      {{ art.Gender }}
+    {% endtablerow %}
+
+    {% tablerow art in site.data.artists %} 
+      {{ art.Birth Year }}
+    {% endtablerow %}
+
+    {% tablerow art in site.data.artists %} 
+      {{ art.Death Year }}
+    {% endtablerow %}
+    </table>
