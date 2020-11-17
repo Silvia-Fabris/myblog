@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Mahmoud Darwish Museum"
+date:   2020-11-4 18:42:44 +0100
+categories: museum
+---
+The [**Mahmoud Darwish Foundation and Museum**](http://mahmouddarwish.ps/en) was built 
+to commemorate [Mahmoud Darwish](http://mahmouddarwish.ps/en/article/80000160/Mahmoud-Darwish) 
+(1941-2008) a Palestinian poet, writer and journalist. 
+
+>  The Mahmoud Darwish Museum is an exquisite edifice befitting the commemoration of the poet and his 
+achievements. It seeks to safeguard  Darwish's  cultural, literary and intellectual legacy, and promote his 
+noble values: the love he had for his homeland, deep respect for human dignity, and his utter veneration of life. 
+His work is the chronicle of a people’s struggle for survival, written with eloquence and profound aestheticism. 
+He exalted the value of innovation and openness to world cultures. Through his engagement with existential 
+questions, he became indisputably one of the most significance icons of contemporary humanitarian culture. 
+Mahmoud Darwish left a rich legacy, a large body of literary works, primarily in the fields of poetry (twenty six volumes) 
+and of prose (eleven volumes), most of which have been translated in over twenty two languages. He was recognized 
+and acclaimed as Palestinian poet laureate and was celebrated and honored locally, regionally, and internationally, 
+receiving numerous prestigious awards, medals and citations. [^1]
+
+
+The website is still being developed so the content is still sparse, but it will be interesting to come back to it in a 
+few months and see the changes they have made. 
+
+In the museum tab you can find the [‘About’](http://mahmouddarwish.ps/en/article/6/About-the-museum) section, 
+the [‘Gift shop’](http://mahmouddarwish.ps/en/category/5/4/GIFTSHOP), a small [virtual tour of the space](http://mahmouddarwish.ps/en/article/66/3D-Museum-Video) which still has to be translated in English, and my favorite part of the website, an interesting and informative 3D Museum Video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mnMyi6LeNgw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+As the website is still a trail version, everyone is welcomed to send their suggestions on how they could improve it. 
+Some of the elements that, for me, could be upgraded or added are:
+- the **biography of the author** which is extremely detailed and, in my opinion, too long to appeal to the general public. 
+I think that the text should be shorter, separated in paragraphs, each paragraph should have a bold title and direct quotes 
+should be separated from the text and in italic. This would make the page easier to read. 
+- a **collection webpage** where they could upload and display pictures or scans of the museum’s artifacts, combined with a brief description.
+- the use of hyperlink within texts would bring more traffic to other pages and help the user to navigate better. For example, 
+in the [‘About page’](http://mahmouddarwish.ps/en/article/6/About-the-museum), it would be useful to add a direct 
+link to [Darwish’s biography](http://mahmouddarwish.ps/en/article/80000160/Mahmoud-Darwish).
+- adopt https protocol, as the website now appears unsafe. 
+
+
+## Location
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27095.779205611787!2d35.18824368284471!3d31.90734724275654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1502d5384300679d%3A0xb2f610d1f315fb34!2z2YXYqtit2YEg2YXYrdmF2YjYryDYr9ix2YjZiti0!5e0!3m2!1sit!2suk!4v1605014760053!5m2!1sit!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+
+[^1]: Mahmoud Darwish Foundation and Museum's website, About the museum: http://mahmouddarwish.ps/en/article/6/About-the-museum

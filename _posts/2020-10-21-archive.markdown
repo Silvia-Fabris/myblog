@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Archive.org"
+date:   2020-10-28 18:42:44 +0100
+categories: archive
+---
+The [Internet Archive](https://archive.org) is a non-profit website where the public can access:
+
+> “a digital library of Internet sites and other cultural artifacts in digital form. (…) Our mission is to provide Universal Access to All Knowledge.
+
+Started in 1996, just as the Internet was gaining popularity, today the archive is formed by:
+
+- 475 billion web pages
+- 28 million books and texts
+- 14 million audio recordings (including 220,000 live concerts)
+- 6 million videos (including 2 million Television News programs)
+- 3.5 million images
+- 580,000 software programs
+
+As soon as you go to the website’s homepage, you are free to browse the categories that most interest you. You can look up the history of over 486 billion web pages on the internet or scroll through the Top Collections at the Archive. 
+
+![Archive.org](/media/archiveorg.png "Archive.org Homepage")
+
+When you engage with the search button, you have the option to:
+1. Search metadata
+2. Search text contents
+3. Search TV news captions
+4. Search radio transcripts
+5. Search archived web sites
+
+Upon selecting a collection, a page with a brief description of its content will open. You can search the collection through metadata or text content, filter it by media type, availability, year, topics, creator, languages and many different ones. 
+
+Anyone can upload their media content on the platform as long as they have signed up for their free account, which can be both positive and negative as you certainly accumulate more material but there is no control on its quality.
+
+Overall the website provides an easy and **FREE** access to an incredible amount of content that spaces from television, films and music to books and manuscripts. Especially at this time, it is extremely helpful for students and researches in particular to have the opportunity to review this material without having to wait for authorizations or travel to the location. 
+
+My favorite section of the website was the [The LibriVox Free Audiobook Collection](https://archive.org/details/librivoxaudio)
+and the [Magazine Rack](https://archive.org/details/magazine_rack?&sort=-downloads&page=2) where I found [The Australian Womens’ Weekly Magazine](https://archive.org/details/Australian_Womens_Weekly?&sort=-downloads&page=2). It was interesting to see the change in topics on the magazine, considering how the “role” of women was evolving during those years (1933-1968). 

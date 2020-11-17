@@ -1,0 +1,31 @@
+---
+layout: post
+title:  Museum of Colour
+date:   2020-11-16 18:42:44 +0100
+categories: digital museum
+---
+The [**Museum of Colour**](https://museumofcolour.org.uk/) is a digital museum centered on the history of British people of colour. It is a research project by arts research organization People’s Palace Projects (PPP) based at Queen Mary University London.
+
+The pilot project of the museum is People of Letters. This exhibition was inspired by the correspondence between Laurence Sterne and Ignatious Sancho, whose very inspiring small biography you can find at this [link](https://museumofcolour.org.uk/people-of-letters-exhibition/ignatius-sancho?piece=1).
+
+![People of Letters](/media/museumofcolour.png)
+
+People of letter is divided into [3 sections](https://museumofcolour.org.uk/people-of-letters-exhibition/museum-index): 
+
+1. Portraits, with a brief history of publishing and portrait gallery
+2. Video & Artifacts, where you can find video interviews of some writers, activists etc. who donated personal objects to the collection.
+3. Response Gallery, a display of poems and short stories.
+
+In my opinion, this is one of the most interesting museum’s websites we have visited so far. The message it conveys is meaningful and it elaborates on a topic that is unfortunately still not broadly discussed. 
+
+Hearing direct testimonies of people makes the visitor feel more connected with what they are seeing. Unfortunately, though, it is difficult to understand that there are actual videos, especially if you are not surfing the website in full screen mode. I would suggest to add a play button to make the message clear, as I fear that now many skip to the next page without realizing they could watch a video. 
+
+I love how they added the following elements after the biographies in the Video & Artifacts section:
+- a book I wish more people knew about
+- what I know to be true
+
+My favorite object of the collection is [*A portrait of me by Daisy Rockwell*](https://museumofcolour.org.uk/people-of-letters-exhibition/sunny-singh-artefacts?piece=38) an American artist, writer and translator. 
+
+![Portrait](/media/portrait_dr.jpg)
+
+However, I also enjoyed the poems and prose in the Response Gallery. I found particularly touching [*The Tiger Baby That Never Was… by Naomi Sumner Chan*](https://museumofcolour.org.uk/people-of-letters-response-gallery/the-tiger-baby-that-never-was/?piece=41) and [*A Separation by Colin Grant*](https://museumofcolour.org.uk/people-of-letters-response-gallery/a-separation/?piece=44)
