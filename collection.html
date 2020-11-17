@@ -5,31 +5,14 @@ title: Artists
 
 {% for art in site.data.artists %} 
   <p>{{ art.artistID }}</p>
-{% endfor %}
-
-{% for art in site.data.artists %} 
   <p>{{ art.EnglishName }}</p>
-{% endfor %}
-
-{% for art in site.data.artists %} 
   <p>{{ art.ChineseName }}</p>
-{% endfor %}
-
-{% for art in site.data.artists %} 
   <p>{{ art.Nationality }}</p>
-{% endfor %}
-
-{% for art in site.data.artists %} 
   <p>{{ art.Gender }}</p>
-{% endfor %}
-
-{% for art in site.data.artists %} 
   <p>{{ art.BirthYear }}</p>
-{% endfor %}
-
-{% for art in site.data.artists %} 
   <p>{{ art.DeathYear}}</p>
 {% endfor %}
+
 
 <table>
   {% tablerow art in site.data.artists %} 
