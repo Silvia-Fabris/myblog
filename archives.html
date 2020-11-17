@@ -1,0 +1,12 @@
+---
+layout: page
+title: Archive
+---
+
+{% for museum in site.archives %} 
+  <h3><a href="{{museum.my_review_url}}">{{ museum.name }}</a></h3>
+  <p> Date of visit: {{museum.date_of_visit}}</p>
+  <p> Favourite object: <a href="{{museum.favourite_object_url}}"> {{museum.favourite_object_name}}</a></p>
+  <img src="{{ museum.image }}">
+  
+{% endfor %}

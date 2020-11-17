@@ -1,0 +1,12 @@
+---
+layout: page
+title: Artists
+---
+{% for art in site.data.artists %} 
+  <h2>{{ art.ArtistID }}. {{ art.EnglishName }} , {{ art.ChineseName }} </h2>
+  <p>Nationality: {{ art.Nationality }} </p>
+  <p>Gender: {{ art.Gender }} </p>
+  <p> Birth and death year: {{ art.BirthYear }} | {{ art.DeathYear}}</p>
+
+{% endfor %}
+
